@@ -1,7 +1,3 @@
-<img 
-src="https://wallpaperaccess.com/full/42271.jpg" width="700" height= "400"/>
-
-
 <span style="font-weight:400;font-size:16px">
     <h2>Hi There!</h2>
 </span>
